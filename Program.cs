@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿using System;
+﻿﻿﻿﻿﻿﻿﻿﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,7 +20,7 @@ namespace ConsoleApp2
             b = false;
             if (b) Console.WriteLine("He выполняется.");// Результатом выполнения оператора отношения
                                                         // является логическое значение.
-            Console.WriteLine("10 > 4 равно " + (10 > 9));
+            Console.WriteLine("10 > 9 равно " + (10 > 9));
         }
     }
 }
