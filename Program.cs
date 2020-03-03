@@ -20,7 +20,7 @@ namespace ConsoleApp2
             b = false;
             if (b) Console.WriteLine("He выполняется.");// Результатом выполнения оператора отношения
                                                         // является логическое значение.
-            Console.WriteLine("10 > 9 равно " + (10 > 9));
+            Console.WriteLine("10 > 6 равно " + (10 > 9));
         }
     }
 }
